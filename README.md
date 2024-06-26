@@ -18,9 +18,9 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-* Introduced our games tab on the navbar, so that the user can directly navigate to the Our Game section of the website
-* Added a search bar on the nav bar, with a dropdown suggestion box, that displays all the suggested game as per the search. Once you click on any suggestion the website scrolls down to the particular game card selected, whcih is highlighted in yellow.
-* Changed the CSS, for an overall more vibrant website
+* Introduced our games tab on the navbar, so that the user can directly navigate to the Our Game section of the website.
+* Added a search bar on the nav bar, with a dropdown suggestion box, that displays all the suggested game as per the search. Once you click on any suggestion the website scrolls down to the particular game card selected, which is highlighted in yellow.
+* Changed the CSS, for a more vibrant website.
 
 ## Video Walkthrough
 
@@ -35,7 +35,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 ## Notes
 
 Describe any challenges encountered while building the app.
-Some of the challenges I faced were working with the suggestion box idea, and highlighting the game card upon selection of suggestion.
+* Some of the challenges I faced were working with the suggestion box idea, and highlighting the game card upon selection of suggestion.
 
 ## License
 
